@@ -95,6 +95,7 @@ table {
       float: left;
       width: 400px;
       border: 3px solid black;
+    
       
     
   }
@@ -103,6 +104,7 @@ table {
       height: 75vh;
       background-size: 100% 100%;
       background-position: center;
+      border-radius: 18px 18px 18px 18px;
       
       display:flex;
       justify-content: space-evenly;
