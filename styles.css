@@ -96,7 +96,7 @@ table {
       border-radius: 18px 18px 18px 18px;
   }
 .container{
-      background-image: url(/home/moringa/Downloads/Slider_Background.jpg);
+      background-image: url(./images/Slider_Background.jpg);
       height: 75vh;
       background-size: 100% 100%;
       background-position: center;
